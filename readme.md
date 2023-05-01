@@ -3,7 +3,7 @@ Vamos a crear un "Paint" sencillito.
 
 En este proyecto utilizaremos el elemento CANVAS.
 
-En lugar del Color Picker estándard, utilizaremos la librería externa jscolor.js ([jscolor Color Picker](jscolor.com))
+En lugar del Color Picker estándard, utilizaremos la librería externa jscolor.js ([jscolor Color Picker](https://jscolor.com/))
 
 ## Recursos
 [W3Schools - Custom Input Range Slider](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
