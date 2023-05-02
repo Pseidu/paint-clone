@@ -19,3 +19,5 @@ En lugar del Color Picker estándard, utilizaremos la librería externa jscolor.
 [Mozilla - Canvas getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
 
 [Mozilla - Canvas 2D Context](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
+[Mozilla - Canvas toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
